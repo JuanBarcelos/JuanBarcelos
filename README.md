@@ -9,8 +9,8 @@
   
 <div align="left"><br>
   <a href="https://github.com/juanbarcelos">
-  <img  width="530em" src="https://github-readme-stats.vercel.app/api?username=juanbarcelos&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img  width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanbarcelos&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img  width="530em" src="https://github-readme-stats.vercel.app/api?username=JuanBarcelos&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img  width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanBarcelos&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
 ## 🛠 &nbsp;Tech Stack
