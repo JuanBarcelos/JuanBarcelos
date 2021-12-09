@@ -8,7 +8,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
   
 <div align="left"><br>
-  <a href="https://github.com/juanbarcelos">
+  <a href="https://github.com/JuanBarcelos">
   <img  width="530em" src="https://github-readme-stats.vercel.app/api?username=JuanBarcelos&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img  width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanBarcelos&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
