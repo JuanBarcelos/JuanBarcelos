@@ -1,7 +1,7 @@
  # Hi dear 👋, I'm Juan Barcelos
   - 🔥 Junior Web Fullstack Developer.
-  - 📚 I’m currently learning **HTML5, CSS, JavaScript, ReactJS, Node.js.**
-  - 💬 Ask me about **HTML5, CSS, JavaScript.**
+  - 📚 I’m currently learning **HTML5, CSS, JavaScript, ReactJS, Node.js, PHP.**
+  - 💬 Ask me about **HTML5, CSS, JavaScript, ReactJS, Node.js, PHP.**
 <br><br>
 <div align="center">
   
